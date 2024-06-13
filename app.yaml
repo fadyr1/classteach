@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: firegamer1234f-classteach
+owner: firegamer1234f
+package: .
+scaling:
+  mode: single_concurrency
